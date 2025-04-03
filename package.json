@@ -1,0 +1,17 @@
+{
+  "name": "thai-banks-logo",
+  "version": "1.0.7",
+  "description": "รายชื่อธนาคาร และ โลโก้ธนาคาร ในประเทศไทย",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadaCUDA/thai-banks-logo.git"
+  },
+  "author": "fasterv410",
+  "license": "ISC",
+  "keywords": ["thai", "thailand", "bank", "logo", "thai-banks-logo", "โลโก้ธนาคาร", "ธนาคาร", "ไทย"],
+  "bugs": {
+    "url": "https://github.com/BadaCUDA/thai-banks-logo/issues"
+  },
+  "homepage": "https://github.com/BadaCUDA/thai-banks-logo#readme"
+}
