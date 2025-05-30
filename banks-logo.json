@@ -4,6 +4,7 @@
     "nameLong": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
     "nameEN": "Bank for Agriculture and Agricultural Cooperatives",
     "symbol": "BAAC",
+    "bank_code": "034",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/BAAC.png"
   },
   "BAY": {
@@ -11,6 +12,7 @@
     "nameLong": "ธนาคารกรุงศรีอยุธยา",
     "nameEN": "Krungsri Bank",
     "symbol": "BAY",
+    "bank_code": "025",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/BAY.png"
   },
   "BBL": {
@@ -18,6 +20,7 @@
     "nameLong": "ธนาคารกรุงเทพ",
     "nameEN": "Bangkok Bank",
     "symbol": "BBL",
+    "bank_code": "002",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/BBL.png"
   },
   "CIMB": {
@@ -25,6 +28,7 @@
     "nameLong": "ธนาคารซีไอเอ็มบี",
     "nameEN": "CIMB Thai Bank",
     "symbol": "CIMB",
+    "bank_code": "022",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/CIMB.png"
   },
   "CITI": {
@@ -32,6 +36,7 @@
     "nameLong": "ธนาคารซิตี้แบงก์",
     "nameEN": "citibank",
     "symbol": "CITI",
+    "bank_code": "017",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/CITI.png"
   },
   "GHB": {
@@ -39,6 +44,7 @@
     "nameLong": "ธนาคารอาคารสงเคราะห์",
     "nameEN": "GH Bank",
     "symbol": "GHB",
+    "bank_code": "030",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/GHB.png"
   },
   "GSB": {
@@ -46,6 +52,7 @@
     "nameLong": "ธนาคารออมสิน",
     "nameEN": "Government Savings Bank",
     "symbol": "GSB",
+    "bank_code": "033",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/GSB.png"
   },
   "HSBC": {
@@ -53,6 +60,7 @@
     "nameLong": "ธนาคารเอชเอสบีซี",
     "nameEN": "HSBC Bank",
     "symbol": "HSBC",
+    "bank_code": "031",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/HSBC.png"
   },
   "IBANK": {
@@ -60,6 +68,7 @@
     "nameLong": "ธนาคารอิสลามแห่งประเทศไทย",
     "nameEN": "Islamic Bank of Thailand",
     "symbol": "IBANK",
+    "bank_code": "066",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/IBANK.png"
   },
   "ICBC": {
@@ -67,6 +76,7 @@
     "nameLong": "ธนาคารไอซีบีซี",
     "nameEN": "ICBC Thai Commercial Bank",
     "symbol": "ICBC",
+    "bank_code": "070",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/ICBC.png"
   },
   "KBANK": {
@@ -74,6 +84,7 @@
     "nameLong": "ธนาคารกสิกรไทย",
     "nameEN": "Kasikorn Bank",
     "symbol": "KBANK",
+    "bank_code": "004",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/KBANK.png"
   },
   "KKP": {
@@ -81,6 +92,7 @@
     "nameLong": "ธนาคารเกียรตินาคินภัทร",
     "nameEN": "Kiatnakin Phatra Bank",
     "symbol": "KKP",
+    "bank_code": "069",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/KKP.png"
   },
   "KTB": {
@@ -88,6 +100,7 @@
     "nameLong": "ธนาคารกรุงไทย",
     "nameEN": "Krungthai Bank",
     "symbol": "KTB",
+    "bank_code": "006",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/KTB.png"
   },
   "LHB": {
@@ -95,6 +108,7 @@
     "nameLong": "ธนาคารแลนด์ แอนด์ เฮ้าส์",
     "nameEN": "LH Bank",
     "symbol": "LHB",
+    "bank_code": "073",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/LHB.png"
   },
   "PromptPay": {
@@ -102,6 +116,7 @@
     "nameLong": "พร้อมเพย์",
     "nameEN": "PromptPay",
     "symbol": "PromptPay",
+    "bank_code": "999",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/PromptPay.png"
   },
   "SCB": {
@@ -109,6 +124,7 @@
     "nameLong": "ธนาคารไทยพาณิชย์",
     "nameEN": "The Siam Commercial Bank",
     "symbol": "SCB",
+    "bank_code": "014",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/SCB.png"
   },
   "TCRB": {
@@ -116,6 +132,7 @@
     "nameLong": "ธนาคารไทยเครดิต",
     "nameEN": "Thai Credit Bank",
     "symbol": "TCRB",
+    "bank_code": "071",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/TCRB.png"
   },
   "TISCO": {
@@ -123,6 +140,7 @@
     "nameLong": "ธนาคารทิสโก้",
     "nameEN": "Tisco Bank",
     "symbol": "TISCO",
+    "bank_code": "067",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/TISCO.png"
   },
   "TrueMoney": {
@@ -130,6 +148,7 @@
     "nameLong": "ทรูมันนี่",
     "nameEN": "True Money",
     "symbol": "TrueMoney",
+    "bank_code": "065",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/TrueMoney.png"
   },
   "TTB": {
@@ -137,6 +156,7 @@
     "nameLong": "ธนาคารทีเอ็มบีธนชาต",
     "nameEN": "TMBThanachart Bank",
     "symbol": "TTB",
+    "bank_code": "011",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/TTB.png"
   },
   "UOB": {
@@ -144,6 +164,7 @@
     "nameLong": "ธนาคารยูโอบี",
     "nameEN": "United Overseas Bank",
     "symbol": "UOB",
+    "bank_code": "024",
     "icon": "https://raw.githubusercontent.com/BadaCUDA/thai-banks-logo/master/icons/UOB.png"
   }
 }
